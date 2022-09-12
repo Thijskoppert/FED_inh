@@ -39,13 +39,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://nl.myprotein.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Homepagina  
   <img src="readme-images/Schermafbeelding 2022-09-12 om 09.47.50.png" width="375px" alt="homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img![Uploading Schermafbeelding 2022-09-12 om 09.46.58.png…]()
- src="readme-images/Schermafbeelding 2022-09-12 om 09.52.59.png" alt="productpagina">
+  Productpagina  
+  <img src="readme-images/Schermafbeelding 2022-09-12 om 09.52.59.png" alt="productpagina">
  
 </details>
 
