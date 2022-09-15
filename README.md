@@ -53,7 +53,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
-  <summary>uitwerken na test in 1e werkgroep</summary>
+  Mijn gekozen site is goed toegankelijk voor mensen met beperkingen. De screenreader leest duidelijk voor wat er staat ('link, producten'). Ook voor     kleurenblinden is de site goed te bezoeken.
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
