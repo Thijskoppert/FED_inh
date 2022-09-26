@@ -111,7 +111,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik miste nog een hoop dingen waaronder mijn breakdown schets. Deze is eigenlijk wel nodig voor de les dus helaas weinig feedback kunnen krijgen.
 
 
   ### Agenda voor meeting
