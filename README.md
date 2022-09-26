@@ -91,13 +91,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdownschets.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/Breakdownschets.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/breakdown-1.png" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/Breakdown-1.png" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/breakdown-2.png" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/Breakdown 2.png" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
