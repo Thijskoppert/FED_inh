@@ -117,12 +117,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  | student 1       | student 2           | student 3         | student 4        |
+  | ---             | ---                 | ---               | ---              |
+  | background img  | wanneer gebruik     | moet je bij       | aparte pagina    |
+  |in je header     |je welke selectoren  | elke section.     |  bij andere taal?|
+  |                 |                     | beginnen met h1   |                  |
+ 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -144,7 +144,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  De html indelen vind ik nog lastig. Het bepalen van welk element ik waarvoor moet gebruiken. Bijv. wanneer gebruik je een section en wanneer gebruik je een UL. 
+  
+<img width="740" alt="Schermafbeelding 2022-10-06 om 13 36 48" src="https://user-images.githubusercontent.com/94463626/194302894-52d486ff-9410-4684-9a94-401c11326d98.png">
+Een voorbeeld, dit is mijn nav. Ik zou nu niet weten of ik dit nu in een nav moet zetten of dat alleen een ul zo goed is. 
 
 
   ### Agenda voor meeting
@@ -157,7 +160,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | ...            | ...                | ...          | ...              |
 
 
-  ### Verslag van meeting
+  ### Verslag van meeting![Uploading Schermafbeelding 2022-10-06 om 13.35.41.png…]()
+
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
   - punt 1
