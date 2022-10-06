@@ -153,11 +153,12 @@ Een voorbeeld, dit is mijn nav. Ik zou nu niet weten of ik dit nu in een nav moe
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+
+  | student 1       | student 2           | student 3         | student 4        |
+  | ---             | ---                 | ---               | ---              |
+  | background img  | wanneer gebruik     | moet je bij       | aparte pagina    |
+  |in je header     |je welke selectoren  | elke section.     |  bij andere taal?|
+  |                 |                     | beginnen met h1   |                  |
 
 
   ### Verslag van meeting![Uploading Schermafbeelding 2022-10-06 om 13.35.41.png…]()
